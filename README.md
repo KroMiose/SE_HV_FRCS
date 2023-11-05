@@ -6,6 +6,13 @@
 - 程序中使用了由MEA提供的MEA方块类和Ship类，此外开发过程中MEA的参考指南也提供了大量帮助，在此特别鸣谢
 - MEA程序开发指南链接: https://www.kancloud.cn/kylilimin/mea-ship/734517
 
+## 效果展示：
+
+![image](https://github.com/KroMiose/SE_HV_FRCS/assets/57167362/2f5bef55-25bd-4126-a97d-5084b83060ee)
+![image](https://github.com/KroMiose/SE_HV_FRCS/assets/57167362/abd052e2-e839-4ee8-841d-6f36f694d3ab)
+![image](https://github.com/KroMiose/SE_HV_FRCS/assets/57167362/6cbbbff8-5807-4c4b-ad98-2e303788e993)
+![image](https://github.com/KroMiose/SE_HV_FRCS/assets/57167362/56493487-d073-4913-8fe5-45308c9b1496)
+
 ## 功能: 
   1. 目标锁定/追踪: 使用任意雷达进行目标寻找并锁定跟踪，目标丢失时记录目标最后出现的信息
   2. 自动发射功能: 开启后锁定目标后自动发射指定枚数导弹进行攻击
